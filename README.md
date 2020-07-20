@@ -1,5 +1,16 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## O Projeto
+
+Projeto para estudo.
+
+* Como consumir API em **React**
+
+
+___________________________________________________________________________________________________
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
